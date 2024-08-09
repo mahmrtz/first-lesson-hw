@@ -1,0 +1,66 @@
+.main {
+    width: 800px;
+    min-height: 700px;
+    float: left;
+    box-sizing: border-box;
+    background: white;
+}
+
+
+.header {
+    width: 100%;
+    min-height: 120px;
+    float: left;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    background: yellow;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.nav {
+    width: 150px;
+    min-height: 500px;
+    float: left;
+    box-sizing: border-box;
+    background: yellow;   
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+
+.article {
+    width: 480px;
+    min-height: 370px;
+    float: left;
+    box-sizing: border-box;
+    background: yellow;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.ad {
+    width: 150px;
+    min-height: 370px;
+    float: left;
+    box-sizing: border-box;
+    background: yellow;   
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.footer {
+    width: 640px;
+    min-height: 120px;
+    float: left;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    background: yellow;
+    padding-top: 10px;
+    padding-left: 20px;
+}
