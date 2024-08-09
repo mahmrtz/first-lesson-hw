@@ -1,4 +1,4 @@
-.main {
+.murtuz-main {
     width: 800px;
     min-height: 700px;
     float: left;
@@ -7,7 +7,7 @@
 }
 
 
-.header {
+.m-header {
     width: 100%;
     min-height: 120px;
     float: left;
@@ -18,7 +18,7 @@
     padding-left: 10px;
 }
 
-.nav {
+.m-nav {
     width: 150px;
     min-height: 500px;
     float: left;
@@ -31,7 +31,7 @@
 }
 
 
-.article {
+.m-article {
     width: 480px;
     min-height: 370px;
     float: left;
@@ -42,7 +42,7 @@
     padding-left: 10px;
 }
 
-.ad {
+.m-ad {
     width: 150px;
     min-height: 370px;
     float: left;
@@ -54,7 +54,7 @@
     padding-left: 10px;
 }
 
-.footer {
+.m-footer {
     width: 640px;
     min-height: 120px;
     float: left;
